@@ -1,0 +1,29 @@
+.page-container {
+    width: 100%;
+    display: flex;
+    overflow: auto;
+    min-height: 100vh;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.page-text {
+    color: rgb(0, 0, 0);
+    height: auto;
+    font-size: 50px;
+    font-style: normal;
+    text-align: center;
+    font-family: "Noto Sans";
+    font-weight: 600;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+}
+
+.page-textinput {
+    width: 1500px;
+    font-size: 30px;
+    text-align: center;
+    font-family: "Noto Sans";
+}
